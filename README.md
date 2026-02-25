@@ -22,40 +22,6 @@
 
 ---
 
-## 🚀 התקנה והעלאה ל-Railway (חינם)
-
-### שלב 1 — העלה ל-GitHub
-
-1. היכנס ל-[github.com](https://github.com) → צור חשבון אם אין
-2. לחץ **+** ← **New repository**
-3. שם: `expense-bot` ← **Create repository**
-4. גרור את כל הקבצים מהתיקייה לדף ← **Commit changes**
-
-### שלב 2 — פרסם ב-Railway
-
-1. היכנס ל-[railway.app](https://railway.app)
-2. **Login with GitHub**
-3. **New Project** ← **Deploy from GitHub repo**
-4. בחר `expense-bot` ← Railway מתחיל לבנות אוטומטית
-
-### שלב 3 — קבל כתובת URL
-
-1. ב-Railway: **Settings** ← **Domains** ← **Generate Domain**
-2. תקבל כתובת כמו: `expense-bot.up.railway.app`
-
-### שלב 4 — סרוק QR וחבר לוואצפ
-
-1. פתח את הכתובת בדפדפן — תראה QR קוד
-2. פתח וואצפ בטלפון ← **⋮** ← **מכשירים מקושרים** ← **קשר מכשיר**
-3. סרוק את ה-QR ✅
-
-### שלב 5 — שתף עם חברים
-
-שלח להם את הלינק: `https://wa.me/972XXXXXXXXX`
-(החלף XXXXXXXXX במספר הטלפון שעליו רץ הבוט)
-
----
-
 ## 📖 פקודות הבוט
 
 | שלח | פעולה |
